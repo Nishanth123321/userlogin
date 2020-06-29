@@ -1,0 +1,98 @@
+.bdy{
+
+	margin:0;
+	padding:0;
+	background-image: url('travell.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align:center;
+
+}
+.head {
+	width:100%;
+	height:15vh;
+	color:white;
+	font-style: italic;
+	font-weight: bold;
+	overflow:hidden;
+	background:black;
+	opacity:0.6;
+      
+}
+.main{
+
+height:75vh;
+
+
+
+}
+.login{
+
+     box-sizing: border-box;
+	max-width:70%;
+	
+	min-height:45vh;
+	margin:auto;
+	background-color:white;
+	border:none;
+	border-radius:6px;
+	text-align:center;
+	padding-right:10%;
+	padding-left:10%;
+	margin-top:26px;
+}
+
+
+
+.foot{
+	color:white;
+	font-style: italic;
+	font-weight: bold;
+	background:black;
+	opacity:0.6;
+	height:10vh;
+	overflow:hidden;
+	margin:auto;
+
+}
+.btn{
+
+	font-weight:bold;
+	padding:7px;
+	border:none;
+	border-radius:7px;
+
+}
+
+.withfb .btn{
+
+	background-color: blue;
+	color:white;
+	opacity:0.8;
+	width:60%;
+}
+.manual{
+
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
+.inpt{
+
+	padding:7px;
+	border-radius:7px;
+	width:60%;
+}
+
+.sbmt{
+
+	background-color: green;
+	opacity:0.9;
+	width:50%;
+}
+
+.hone{
+
+	padding-top:5px;
+	padding-bottom:5px;
+}
